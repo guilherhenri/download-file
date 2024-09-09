@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <a href="http://localhost:3333/download-file" download="teste.png">
+      <a href="http://localhost:3333/file-download" download="teste.png">
         Download
       </a>
     </div>
