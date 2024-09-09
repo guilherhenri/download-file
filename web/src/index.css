@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  width: 100vw;
+  height: 100vh;
+  background: #17BEBB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  background: #2E282A;
+  width: 120px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 18px;
+  transition: background 1s;
+}
+
+a:hover {
+  background: #41393C;
+}
